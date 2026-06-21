@@ -1,5 +1,8 @@
 ## Hi there 👋
+Die Deutsche Programmiersprache (DDP) ist eine (Witz-)Programmiersprache von NotLe0n und bafto, die so entworfen wurde, dass in ihr geschriebene Programme so gelesen werden können wie (annähernd) korrektes Deutsch.
 
+- 👀 I’m interested in learning about automation in business
+- 🌱 I’m currently learning LLM
 <!--
 **MoKlines/MoKlines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
